@@ -32,7 +32,7 @@ export default {
   buildModules: [
   ],
   router: {
-    base: '/landing-page/'
+    base: '/project-ku/'
   },
 
   // Modules (https://go.nuxtjs.dev/config-modules)
